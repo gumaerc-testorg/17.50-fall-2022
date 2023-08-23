@@ -6,17 +6,17 @@ draft: false
 title: Syllabus
 uid: b55da6e9-2637-4ecf-b526-5e543a9cda26
 ---
-#### Course Meeting Times
+### Course Meeting Times
 
 Lectures: 2 sessions / week; 1 hour / session
 
 Recitations: 1 session / week; 1 hour / session
 
-#### Prerequisites
+### Prerequisites
 
 There are no prerequisites for this course.
 
-#### Class Objectives
+### Class Objectives
 
 This class addresses the fundamental problems of governance: the rationale for the state and ways to make sure that the state does what is in the best interests of people subject to its authority. The central purpose of the class is to help you think critically about these issues, which will include interrogating the assumptions that you – like everyone else – probably have about them.
 
@@ -27,27 +27,27 @@ The class also has a few corollary goals:
 - To give you practice in writing and presentation; and
 - To provide the foundation for more specialized polisci classes, if you wish to take them.
 
-#### Readings
+### Readings
 
 Readings are listed under the specific session for which they are required. There is a logic to the choice of sessions and to the order in which readings are listed. Readings total 50–100 pages per week and should take you at most 4 hours to do. If you have trouble completing the readings in that time, please see me or the teaching assistant about strategies.
 
 See the {{% resource_link "5766748f-26ce-4690-8413-aba30fb6b353" "Readings" %}} section for further detail.
 
-#### Recommended Novels, Films, and TV
-
-There are a lot of terrific films and novels out there with a political theme.
-
-#### Class Participation
+### Class Participation
 
 This subject is designed so that there is extensive class participation. The first day of each week normally involves more in the way of lecture from me to frame the salient issues, provide the necessary background for those unfamiliar with the topic, and generally make sure everyone is on the same page. The second session of each week and the recitation typically involve much more student participation, in the form of breakout groups and presentations. Even the lectures, however, are usually interactive.
 
 I’d ask that you be prepared to participate actively and intelligently in class throughout the semester. For some people, that may mean pushing yourself to talk more than feels instinctively comfortable; for others it may mean holding yourself back. If participation becomes unbalanced, I may “cold call” people.
 
-In formal presentations, there is a strict time limit, so be sure to practice and to time yourself ahead of time; you should make sure to frame your question clearly in the beginning and then move on swiftly to your main points. ***A list of hints for making good presentations is posted on the website***; please go through it before our talk to make sure you have not missed anything. In general, everyone in a breakout group must present.
+In formal presentations, there is a strict time limit, so be sure to practice and to time yourself ahead of time; you should make sure to frame your question clearly in the beginning and then move on swiftly to your main points. 
 
 Several class sessions are devoted to breakout groups. We will check informally throughout the semester to make sure that everyone is pulling their weight in the breakout groups and adjust participation grades accordingly. If you are concerned that your group cannot reach consensus on any point, you should not try to force one. Rather, use the division in your group to sharpen your argumentation and to highlight the pros and cons of different options. Basically, imagine that you are teeing the issue up for a decision-maker.
 
-#### Grading Policy
+### Tests and Exams
+
+In the first week, we have a pop quiz (which will not be graded). There will also be an exam at the end of the semester that focuses on material *not* covered in other graded assignments (e.g., the readings and lectures from weeks in which no paper was due) and on synthesizing the material from the semester. The goal of this exam is to allow students who took the time to master this material to demonstrate that they have done so. Some questions may require you to extrapolate a bit, but if you have given some thought to the subjects covered in the class, done the reading over the course of the semester, and understood the lectures, you really should not need to study; briefly reviewing your notes ought to be sufficient. The format of the exam changes from one year to the next: it may be a single essay, several shorter essays, a multiple choice exam, or some combination. 
+
+### Grading Policy
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
@@ -77,7 +77,7 @@ Final exam
 
 For more information on the activities in the table, see the {{% resource_link "268c54ed-52cd-447f-af68-583785b4440f" "Assignments" %}} section.
 
-#### Other Engagements
+### Other Engagements
 
 *Informal One-On-Ones*
 
@@ -93,17 +93,17 @@ In the classroom, I obviously keep my personal opinions to myself. If you just a
 
 I may occasionally invite some interesting friends to drop by. If any guests are present, the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) also applies: nothing people say may be attributed to them specifically, and you may not mention that they attended the session.
 
-My wife and I have active two sons (ages 12 and 14) and an even more active dog. Any or all of them may make an unscheduled appearance during the gab sessions, and be advised that you may hear the sound of boys hitting each other with wiffleball bats in the background.
+My wife and I have two active sons (ages 12 and 14) and an even more active dog. Any or all of them may make an unscheduled appearance during the gab sessions, and be advised that you may hear the sound of boys hitting each other with wiffleball bats in the background.
 
 *Curated Outside Reading*
 
 The TA or I will occasionally send you articles on current events. We will choose these articles because they strike us as (a) particularly insightful, (b) balanced in their presentation of issues, and (c) relevant to course themes – with the idea being that “if you are going to read anything about this topic, check out this one”. Of course, you are under no obligation to read them.
 
-*Random AnecdotesTM*
+*Random Anecdotes<sup>TM</sup>*
 
-I will sometimes begin class with a very brief story or factoid about comparative politics (“Random AnecdoteTM), a comment on a recent event, a mention of historically significant event on its anniversary, or something similar. The purpose of these remarks, which are not necessarily relevant to the subject matter for that particular class session (hence the “random”), is to get you thinking about some apparently puzzling political issue.
+I will sometimes begin class with a very brief story or factoid about comparative politics (“Random Anecdote<sup>TM</sup>”), a comment on a recent event, a mention of historically significant event on its anniversary, or something similar. The purpose of these remarks, which are not necessarily relevant to the subject matter for that particular class session (hence the “random”), is to get you thinking about some apparently puzzling political issue.
 
-#### Classroom Norms
+### Classroom Norms
 
 My classroom is meant to be a welcoming and comfortable environment. However, it is also a professional one. With this in mind, some rules of decorum:
 
@@ -113,7 +113,7 @@ My classroom is meant to be a welcoming and comfortable environment. However, it
 
 Historically, most students have called me “Professor Lawson”, but some have called me by my first name (“Chappell” -- pronounced like “chapel” -- or “Chap”), and the trend is in that direction. It’s up to you. Of course, you should also free to address me as “*Jefe*”, “Lawson-Zi”, or “*Dominus et Deus*” if you wish to more or less ensure getting extra credit.
 
-#### Trigger Warnings
+### Trigger Warnings
 
 I am unconvinced that trigger warnings provide any real psychological benefit – the scientific literature provides grounds for skepticism – and I also find them vaguely infantilizing. Nevertheless, these days some people ask for them.
 
@@ -127,6 +127,6 @@ Comments in class should not be gratuitously insulting. But I am not a fan of pe
 
 These sorts of exchanges are, in my view, the heart of teaching social science. They are why I teach, and why I enjoy teaching – especially students like you.
 
-#### Further Classes in Political Science
+### Further Classes in Political Science
 
-If you like this class, you will probably like other Course 17 subjects. If you did not like this class, that is surely a result of my deficiencies, and you will like other classes in Course 17 much more.
+If you like this class, you will probably like other [political science](https://ocw.mit.edu/search/?d=Political%20Science&q=political%20science) subjects. If you did not like this class, that is surely a result of my deficiencies, and you will like other political science classes much more.

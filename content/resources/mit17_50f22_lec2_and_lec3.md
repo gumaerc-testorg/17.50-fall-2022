@@ -8,12 +8,13 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'Introduction to Comparative Politics, Lecture Slides: Lectures 2 and 3, The
   State'
-uid: a6988dbc-c3ac-44c1-9249-2ac0f6c6fdfe
+uid: 486b885c-fadb-4c1a-a61f-9b477f84eb5e
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

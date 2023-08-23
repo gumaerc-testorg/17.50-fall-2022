@@ -29,7 +29,7 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "126c20aa-c441-46fe-a177-d40d84e77581",
     "website": "introduction-to-comparative-politics"
   },
   "course_title": "Introduction to Comparative Politics",
@@ -40,10 +40,13 @@
   "extra_course_numbers": "",
   "primary_course_number": "17.50",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "ac2b0c2a-7991-40c0-a1ce-2faf6cbfaa13",
     "website": "introduction-to-comparative-politics"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
   "site_uid": "8395f688-7641-4476-acff-3f5181c101a6",
   "site_short_id": "17.50-fall-2022"
 }
