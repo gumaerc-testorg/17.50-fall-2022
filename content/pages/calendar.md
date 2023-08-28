@@ -16,55 +16,55 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 - No recitation this week
 - By session 2:
     - Read this syllabus thoroughly.
-    - Take the Pop Quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the Pop Quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the Pop Quiz.
-    - Comment on Pop Quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.
+    - Take the pop quiz. Read through the whole quiz before attempting any of the answers. Then spend 60 minutes to answer some of them, dividing your time however you please across questions. (You may wish to take a deep dive into one particular question or, alternatively, to answer several questions at a superficial level.) Please discuss the pop quiz with as many people as you want. You can also consult any sources you wish, but if you do, make sure to cite them properly in your posts. Post your replies on the class website. there is a separate thread for each question on the pop quiz.
+    - Comment on pop quiz answers (~30 minutes). Pick one question, read through the answers already posted, and then post your own commentary.
 
 ### Session 2: The state and its discontents (1)
 
 - Introductions of any newcomers
-- Pop Quiz Q1
+- Pop quiz question 1
 - Lecture: What is a state, and why have one? (Part 1)
-- Reminder on Map Test
+- Reminder on map test
 
 ### Session 3: The state and its discontents (2)
 
-- Random anecdote<sup>TM</sup>: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz.
+- Random Anecdote<sup>TM</sup>: Montezuma’s instructions to his messenger, in delivery of a letter to Hernán Cortés at Veracruz
 - Lecture: What is a state and why have one? (Part II) How were states originally created?
 - Nasty things states do. Better no state than a bad state?
 - Can we make the state “smaller”?
 - By next recitation:
-    - Prepare for Map Test
+    - Prepare for map test
 - By session 4:
-    - Register to vote. Please confirm via the class website that you have registered. If you are a citizen of a country without absentee balloting, you should write a short email to an official from your country inquiring into the rationale for the lack of absentee balloting, or forwarding the message to the TA afterwards. If you are from a country where elections are meaningless or where writing a government official with such a query might get you into trouble, or if you have some other principled objection to registering to vote, talk with the TA or me about how to fulfill this assignment in a way that takes a similar amount of time.
+    - Register to vote. Please confirm via the class website that you have registered. If you are a citizen of a country without absentee balloting, you should write a short email to an official from your country inquiring into the rationale for the lack of absentee balloting, and forwarding the message to the TA afterwards. If you are from a country where elections are meaningless or where writing a government official with such a query might get you into trouble, or if you have some other principled objection to registering to vote, talk with the TA or me about how to fulfill this assignment in a way that takes a similar amount of time.
     - Schedule your (optional) one-on-one meeting with me, assuming you wish to schedule one.
 
 ## Topic 2: Making rules
 
 ### Session 4: Making rules and the state in countries that are “born free”
 
-- Random anecdote<sup>TM</sup>: Approved undergarments in a Japanese high school.
+- Random Anecdote<sup>TM</sup>: Approved undergarments in a Japanese high school
 - Born free versus something else
 - Introduction to the (fictitious) island nation of Compostela
     - Backup rainwater catchment versus coastal defense?
     - Who should pay for public services?
-- The problem of rights, numbers, and intensities (a.k.a., the James Madison problem):
+- The problem of rights, numbers, and intensities (a.k.a. the James Madison problem):
     - What to do when majorities trump minorities with intense preferences on “ordinary” issues? (e.g., trade policy)
     - Possible solutions within democracy
         - Encouraging deliberation
         - Veto players
         - Single-issue voters
 - The scope of the public sphere
-    - Indecency and offensiveness without harm (a.k.a., the Joel Feinberg problem)
+    - Indecency and offensiveness without harm (a.k.a. the Joel Feinberg problem)
     - Sexuality and gender identity in a conventional society
     - Reproductive rights
     - How to decide the limits of the rights necessary for citizenship
-- The problem of cultural rights and prejudices (a.k.a, the Larry Diamond problem)
+- The problem of cultural rights and prejudices (a.k.a the Larry Diamond problem)
     - Religious freedom in a largely but not completely homogenous society
     - Language policy in a deeply divided society
-- The problem of popular ignorance (a.k.a., the H.L. Menken problem)
+- The problem of popular ignorance (a.k.a. the H.L. Mencken problem)
     - “Democracy is a pathetic belief in the collective wisdom of individual ignorance. No one in this world, so far as I know—and I have researched the records for years, and employed agents to help me—has ever lost money by underestimating the intelligence of the great masses of the plain people.”
     - Introduction to minimalism
-- Democracy versus liberalism (a.k.a, the Judith Shklar problem)
+- Democracy versus liberalism (a.k.a the Judith Shklar problem)
     - “Liberalism is monogamously, faithfully, and permanently married to democracy -- but it is a marriage of convenience” rather than one of love.
     - “Undemocratic liberalism” (per Yascha Mounk) as guardianship
 - Explanation of breakout groups
@@ -77,7 +77,7 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ### Session 6: Picking rulers
 
-- Review Pop Quiz Question 4
+- Review pop quiz Question 4
 - Leadership selection (and training) mechanisms
     - Popular election
     - Lottery systems
@@ -158,7 +158,7 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ### Session 17: The debate over immigration
 
-- Random anecdote<sup>TM</sup>: “Beer hall putsch” coup attempt; November 8–9, 1923
+- Random Anecdote<sup>TM</sup>: “Beer hall putsch” coup attempt; November 8–9, 1923
 - Overview of immigration policies
 
 ### Session 18: Class discussion and debate
@@ -172,19 +172,19 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ### Session 19: Bloated states and their consequences
 
-- Random anecdote<sup>TM</sup>: Attempted assassination of Park Chun-Hee in 1974
+- Random Anecdote<sup>TM</sup>: Attempted assassination of Park Chun-Hee in 1974
 - Bloated states and their consequences
 
 ### Session 20: Broad explanations for economic development
 
 ### Session 21: Industrial policy and its discontents
 
-- Review Pop Quiz questions 9 and 11
+- Review pop quiz questions 9 and 11
 
 ### Session 22: Further discussion of industrial policy
 
-- Random anecdote<sup>TM</sup>: Anniversary of the Hat Law in Turkey (November 25, 1925)
-- Post at least 250 words of commentary for both Question 9 and Question 11 on the Pop Quiz.
+- Random Anecdote<sup>TM</sup>: Anniversary of the Hat Law in Turkey (November 25, 1925)
+- Post at least 250 words of commentary for both question 9 and question 11 on the pop quiz
 
 ## Topic 9: Revolution, democratization, and regime change
 
@@ -205,7 +205,7 @@ uid: 6feef223-7c47-4a8e-9f77-83ea0242ae2d
 
 ### Session 26: Buzz groups
 
-- Random anecdote<sup>TM</sup>: North Korea bans laughing, drinking, etc. on 10th anniversary of Kim Jong-Il’s death (December 17)
+- Random Anecdote<sup>TM</sup>: North Korea bans laughing, drinking, etc. on 10th anniversary of Kim Jong-Il’s death (December 17)
 - Buzz groups: You are the Advisory Council to the President-for-Life of Qumar. Pick two emerging technologies (e.g., AI, facial recognition, genetic databases, etc.) and make recommendations to him regarding what he should do about them
 - Discussion based on buzz groups
 
