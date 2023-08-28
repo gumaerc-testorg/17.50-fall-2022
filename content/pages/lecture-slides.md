@@ -30,3 +30,5 @@ uid: c6704126-7f51-47fd-a4df-f8bbd014859a
 {{% resource_link "a0201fcc-cf02-45e9-b9a3-917c695cdb39" "Session 26: Technology and Political Impact (PDF)" %}}
 
 {{% resource_link "0766885c-18e3-46f8-8da3-5b20c43ad0e1" "Session 27: The fundamental problem of governance (PDF)" %}}
+
+Note: There are no lecture slides for sessions 1, 5, 9–11, 14, 16, 18–23, 25, and 28.

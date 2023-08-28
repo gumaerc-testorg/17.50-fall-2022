@@ -7,7 +7,7 @@ uid: f17b11bb-4820-4baa-a478-902e80f3a98f
 ---
 ## Week 2
 
-- Map Test \[8 min\]
+- Map test \[8 min\]
 - Compare and contrast of Aristotle, Ibn Khaldun, Hobbes, and Hume \[12 min\]
 - Discussion of Dahl: Is it desirable not to have a state? Workable? \[15 min\]
 - Discussion of expectations for papers and breakout groups \[15 min\]
@@ -15,7 +15,7 @@ uid: f17b11bb-4820-4baa-a478-902e80f3a98f
 ## Week 3
 
 - Breakout groups
-    - You will be divided into groups and will do readings based on your group. Make sure to come to recitation have read and digested all the readings.
+    - You will be divided into groups and will do readings based on your group. Make sure to come to recitation having read and digested all the readings.
     - Breakout groups on what the state should do, and how. For groups C–F, articulate clearly what the nature of the public good or public service is that you believe the state should provide. Then review how it can best be provided to minimize the likelihood of state abuse.
     - Bear in mind that the audience for your presentations is your fellow students, not me or the TA. You want them to come away from your presentation with a sense of the big questions related to your topic and what alternatives there might be. Remember that they will not have done any of the readings that your group did, so you will need to summarize and explain that material. I suggest that you use the blackboard to write the definition of the public good ahead of time so people can see it as you begin, and perhaps an outline of the points you will cover.
     - If your group does not agree, don’t try to force consensus. Instead, use the disagreement to refine the pros and cons of different approaches, and then note that you didn’t all agree on how these pros and cons netted out.
@@ -29,9 +29,9 @@ uid: f17b11bb-4820-4baa-a478-902e80f3a98f
     - Selections from Aristotle’s *The Constitution of Athens*, Parts 42–69.
     - Ober, Josiah. “[Learning from Athens](https://www.bostonreview.net/articles/josiah-ober-learning-from-athens/).” *Boston Review*, March 1, 2006. 
 - Group B: The use of referenda in modern societies. Focus here on the idea of the citizenry meeting regularly (in person or virtually) to vote directly on policy decisions. Are these feasible in modern societies. If so, for what spheres of policy or types of decisions? What are the pros and cons of applying them?
-    - Dahl, Robert A. “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] *(Read the section on “Representative Government”.)*
+    - Dahl, Robert A. “Towards the Second Transformation: Republicanism, Representation, and the Logic of Equality.” Chapter 2 in *Democracy and Its Critics.* Yale University Press, 1991, pp. 28–30. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\] *(Read the section on “Representative Government.”)*
     - Seiffert, Jeanette. “[Perfect Democracy?](https://www.dw.com/en/pros-and-cons-of-the-swiss-referendum-model/a-17643284)” Made for Minds. May 18, 2014. 
-    - Salutin, Rick. “[Referendums At Heart of Swiss Political System](https://www.thestar.com/news/insight/2012/07/21/referendums_at_heart_of_swiss_political_system.html?rf),” *Toronto Star*, July 21, 2012.
+    - Salutin, Rick. “[Referendums at Heart of Swiss Political System](https://www.thestar.com/news/insight/2012/07/21/referendums_at_heart_of_swiss_political_system.html?rf),” *Toronto Star*, July 21, 2012.
     - Fishkin, James S. “[The Nation in a Room](https://www.bostonreview.net/articles/james-fishkin-nation-in-a-room-turning-public-opinion-into-policy/).” *Boston Review*, March 1, 2006. 
     - Schmitter, Philippe C. [“A Proposal for the Creation of a 'Citizen Assembly'.”(PDF)](https://www.eui.eu/Documents/DepartmentsCentres/SPS/Profiles/Schmitter/CitizenAssembly.pdf)
 - Group C: External defense. What sort of institutions are required and desirable for the defense of your country in a modern context. For instance, does “defense” include power projection abroad for national advantage? Protections of allies? Ensuring access to strategic resources and trade routes? Conquest and other wars of choice abroad? Then think about provision of this good: the value of a draft *versus* an all-volunteer army *versus* reliance on (foreign) mercenaries *versus* a small constabulary force backed by citizen-militias, etc. 
@@ -41,18 +41,18 @@ uid: f17b11bb-4820-4baa-a478-902e80f3a98f
     - McFate, Sean. “[Mercenaries and War: Understanding Private Armies Today](https://ndupress.ndu.edu/Media/News/Article/2031922/mercenaries-and-war-understanding-private-armies-today/).” National Defense University Press. December 4, 2019. 
     - Rostker, Bernard D. “[The Evolution of the All-Volunteer Force](https://www.rand.org/pubs/research_briefs/RB9195.html).” RAND. 2006. 
     - Weisberg, Jacob. “[Rough Draft: The Gross Unfairness of an All-Volunteer Army](https://slate.com/news-and-politics/2006/03/the-gross-unfairness-of-an-all-volunteer-army.html).” *Slate*, March 22, 2006. 
-- Group D: Justice and punishment. Begin from first principles: how should the state punish infractions? You should feel free to consider alternative approaches to deterrence and punishment in general that rely on community shaming, community service, etc. Note that you may wish to apply the notion of “restorative justice” to certain types of crimes and certain types of communities- for instance, involuntary homicide, fraud, or sexual misconduct between individuals who know each other. Whatever you decide, make sure you clearly articulate the fundamental options for the class.
-    - Fukuyama, Francis. “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\]*(Read the section “Law and Justice.”)*
+- Group D: Justice and punishment. Begin from first principles: how should the state punish infractions? You should feel free to consider alternative approaches to deterrence and punishment in general that rely on community shaming, community service, etc. Note that you may wish to apply the notion of “restorative justice” to certain types of crimes and certain types of communities—for instance, involuntary homicide, fraud, or sexual misconduct between individuals who know each other. Whatever you decide, make sure you clearly articulate the fundamental options for the class.
+    - Fukuyama, Francis. “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\] *(Read the section “Law and Justice.”)*
     - Zehr, Howard. [*The Little Book of Restorative Justice (PDF)*](https://neekaan.com/TheLittleBookofRestorativeJustice.pdf). Notes by Neekaan Oshidary. Neekaan. 
     - Rosen, David. “[Crime & Public Shaming](https://www.counterpunch.org/2016/04/15/crime-public-shaming/).” *CounterPunch*, April 15, 2016. 
-    - [Alternatives to imprisonment](https://en.wikipedia.org/wiki/Alternatives_to_imprisonment). Wikipedia.
+    - [Alternatives to Imprisonment](https://en.wikipedia.org/wiki/Alternatives_to_imprisonment). Wikipedia.
 - Group E: Law enforcement. Think about the role of policing, including the role of ordinary citizens: their obligations to assist the police (e.g., whether they are required to furnish information about crimes, report criminal activity they witness, or answer a *posse comitatus* summons), and the tradeoffs involved in citizen oversight of policing. Should there be a professional police force at all? If so, who should lead it?
     - Kopel, David. “[Sheriffs and the Posse Comitatus](https://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/05/15/sheriffs-and-the-posse-comitatus/),” *Washington Post*, May 15, 2014. 
     - Reece, John G., and Judy Macy. “[Citizen Advisory Boards in Contemporary Practice: A Practical Approach in Policing](https://www.policechiefmagazine.org/citizen-advisory-boards-in-contemporary-practice-a-practical-approach-in-policing/).” *The Police Chief* 82 (October 2015): web-only.
 - Group F: Redistribution. Make sure to articulate whether and why the state should be in the business of redistribution. Consider whether there should be any conditionality associated with transfers and, if so, what sort? (For instance, recipients of government assistance must do X.) If you believe the state should ensure some sort of welfare provision to disadvantaged citizens, discuss how such transfers can be made so that the state feels smaller or less intrusive. Be sure to articulate clearly for your classmates what the different options suggested by the readings are.
     - Bartholomew, James. “[Swiss Welfare Runs like Clockwork](https://www.spectator.co.uk/article/swiss-welfare-runs-like-clockwork/).” *The Spectator,* July 17, 2010.
-    - Bergmann, Barbara. “[Why Sweden, Not Switzerland, Should Be America’s Social Welfare Model](https://www.pbs.org/newshour/nation/sweden-switzerland-americas-social-welfare-model).” PBS News Hour. April 11, 2014. 
-    - Amadeo, Kimberly. “[What Is Universal Basic Income?](https://www.thebalancemoney.com/universal-basic-income-4160668)” August 7, 2022.  The Balance.
+    - Bergmann, Barbara. “[Why Sweden, Not Switzerland, Should Be America’s Social Welfare Model](https://www.pbs.org/newshour/nation/sweden-switzerland-americas-social-welfare-model).” PBS NewsHour. April 11, 2014. 
+    - Amadeo, Kimberly. “[What Is Universal Basic Income?](https://www.thebalancemoney.com/universal-basic-income-4160668)” August 7, 2022. The Balance.
     - Hunter, Brittany. “[The Top Three Arguments against a Universal Basic Income](https://fee.org/articles/the-top-three-arguments-against-a-universal-basic-income/).” FEE Stories, Foundation for Economic Education. September 8, 2017. 
 
 ## Week 4
@@ -81,7 +81,7 @@ Lijphart, Arend. *Patterns of Democracy: Government Forms and Performance in Thi
 
 ### *Reading*
 
-Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
+Rao, Vijayendra, Kripa Ananthpur and Kabir Malik. “[The Anatomy of Failure: An Ethnography of a Randomized Trial to Deepen Democracy in Rural India](https://www.sciencedirect.com/science/article/pii/S0305750X17302115).” *World Development* 99 (2017): 481–97.
 
 ## Week 8
 
@@ -117,11 +117,7 @@ Rao, Vijayendra, Kripa Ananthpur, and Kabir Malik. “[The Anatomy of Failure: A
 
 Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9, no. 2 (2004): 131–65.
 
-de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
-
-———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
-
-———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+de Soto, Hernando. “The Five Mysteries of Capital,” “The Mystery of Missing Information,” and “By Way of Conclusion.” Chapters 1, 2, and 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
 Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal,* *Demo Issue* (2008): 1–29.
 
@@ -143,18 +139,18 @@ Morozov, Evgeny. “[Liberation Technology: Whither Internet Control?](https://w
 
 Little, Andrew T. “[Communication Technology and Protest](https://www.journals.uchicago.edu/doi/full/10.1086/683187?platform=hootsuite&mobileUi=0).” *Journal of Politics* 78, no. 1 (2016): 152–66.
 
-Bahrani, Yasmine. “[What is it like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
+Bahrani, Yasmine. “[What Is It like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
 
 Farrow, Ronan. “[How Democracies Spy on Their Citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens).” *The New Yorker*, April 18, 2022. 
 
-Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 23, 2021.
+Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, with Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 23, 2021.
 
 Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, January 21, 2019.
 
 ## Week 15
 
 - Discussion of readings
-- Review of Pop Quiz
+- Review of pop quiz
 
 ### *Readings*
 

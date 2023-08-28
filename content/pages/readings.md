@@ -6,7 +6,7 @@ draft: false
 title: Readings
 uid: 5766748f-26ce-4690-8413-aba30fb6b353
 ---
-## Topic 1:  State and government
+## Topic 1: State and government
 
 ### Session 1: Introduction
 
@@ -20,11 +20,11 @@ Selection from Ibn Khaldun, *Muqaddimah* (*Introduction to a Universal History*)
 
 Selection from Thomas Hobbes, *Leviathan: Or, the Matter, Forme, and Power of a Commonwealth, Ecclesiasticall and Civil* \[1651\], Chapters 13 and 17.
 
-Hume, David. Selections from “[Of the Origin of Government](http://www.econlib.org/library/LFBooks/Hume/hmMPL5.html#Part%20I,%20Essay%20V,%20OF%20THE%20ORIGIN%20OF%20GOVERNMENT).” Part 1, Essay V in *Essays, Moral, Political and Literary*. econlib.org. 
+Hume, David. Selections from “[Of the Origin of Government](http://www.econlib.org/library/LFBooks/Hume/hmMPL5.html#Part%20I,%20Essay%20V,%20OF%20THE%20ORIGIN%20OF%20GOVERNMENT).” Part 1, Essay V in *Essays, Moral, Political and Literary*. 1742. econlib.org. 
 
 Dahl, Robert A. “Anarchism.” Chapter 3 in *Democracy and Its Critics.* Yale University Press, 1991. ISBN: ‎9780300049381. \[Preview with [Google Books](https://www.google.com/books/edition/Democracy_and_Its_Critics/VGLYxulu19cC?hl=en&gbpv=1)\]
 
-Fukuyama, Francis. “Preface.” In *State-Building: Governance and World Order in the 21st Century*. Cornell University Press, 2004. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\] (Read the first three pages only, and not the last paragraph.)
+Fukuyama, Francis. “Preface.” In *State-Building: Governance and World Order in the 21<sup>st</sup> Century*. Cornell University Press, 2004. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\] (Read the first three pages only, and not the last paragraph.)
 
 ### Session 3: The state and its discontents (2)
 
@@ -104,7 +104,7 @@ No readings assigned.
 
 ### Session 13: Monitoring street-level bureaucrats
 
-Fordham, Alice. “[App Aims to Track Engrained Corruption in Lebanon](https://www.npr.org/2015/03/09/391795425/app-tries-to-track-engrained-corruption-in-lebanon).” NPR. March 9, 2015.  (*Make sure to listen to the interview rather than read the transcript.*)
+Fordham, Alice. “[App Aims to Track Engrained Corruption in Lebanon](https://www.npr.org/2015/03/09/391795425/app-tries-to-track-engrained-corruption-in-lebanon).” NPR. March 9, 2015. (*Make sure to listen to the interview rather than read the transcript.*)
 
  “[Corruption and Economic Development](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/799831538245192753/helping-countries-combat-corruption-the-role-of-the-world-bank).” Chapter 2 in *Helping Countries Combat Corruption: The Role of the World Bank.* The World Bank Group. 1997.
 
@@ -129,7 +129,7 @@ No readings assigned.
 
 ### Session 15: Who are the people?
 
-Review Pop Quiz Question 10.
+Review pop quiz question 10.
 
 Fukuyama, Francis. “Tribal Societies: Property, Justice, War.” Chapter 4 in *The Origins of Political Order*. Profile Books, 2011. ISBN: 9781847652812. \[Preview with [Google Books](https://www.google.com/books/edition/The_Origins_of_Political_Order/CvN0ihQi--wC?hl=en&gbpv=1)\] *(Read the section “Law and Justice.”)*
 
@@ -165,11 +165,11 @@ Lozada, Carlos. “[Samuel Huntington, a Prophet for the Trump Era](https://www.
 
 Papademetriou, Demetrios G. “[Policy Considerations for Immigrant Integration](https://www.migrationpolicy.org/article/policy-considerations-immigrant-integration).” Migration Policy Institute. October 1, 2003.
 
-Hamilton, Tracy Brown. “[Losing Identity During the Refugee Crisis: The Difference between Assimilation and Integration in the Classroom](https://www.theatlantic.com/education/archive/2016/05/balancing-integration-and-assimilation-during-the-refugee-crisis/482757/).” *The Atlantic*, May 16, 2016.
+Hamilton, Tracy Brown. “[Losing Identity during the Refugee Crisis: The Difference between Assimilation and Integration in the Classroom](https://www.theatlantic.com/education/archive/2016/05/balancing-integration-and-assimilation-during-the-refugee-crisis/482757/).” *The Atlantic*, May 16, 2016.
 
 Creatura, Isabella. “[Rethinking ‘Integration’ and ‘Assimilation’ of Refugees](https://brownpoliticalreview.org/2017/03/rethinking-integration-assimilation-refugees/).” *Brown Political Review*, March 13, 2017.
 
-Zappi, Sylvia. “[French Government Revives Assimilation Policy](https://www.migrationpolicy.org/article/french-government-revives-assimilation-policy).” Migration Policy Institute. Migration Policy Institute. October 1, 2003.
+Zappi, Sylvia. “[French Government Revives Assimilation Policy](https://www.migrationpolicy.org/article/french-government-revives-assimilation-policy).” Migration Policy Institute. October 1, 2003.
 
 Griffith, Andrew. “[Building a Mosaic: The Evolution of Canada’s Approach to Immigrant Integration](https://www.migrationpolicy.org/article/building-mosaic-evolution-canadas-approach-immigrant-integration).” Migration Policy Institute. November 1, 2017.
 
@@ -189,7 +189,7 @@ Goodman, John B., and Gary W. Loveman. “[Does Privatization Serve the Public I
 
 Ball, Molly. “[The Privatization Backlash](https://www.theatlantic.com/politics/archive/2014/04/city-state-governments-privatization-contracting-backlash/361016/).” *The Atlantic*, April 23, 2014.
 
-Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *State-Building: Governance and World Order in the 21st Century*. Cornell University Press, 2004, pp. 1–23. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\]
+Fukuyama, Francis. “The Missing Dimensions of Stateness.” Chapter 1 in *State-Building: Governance and World Order in the 21<sup>st</sup> Century*. Cornell University Press, 2004, pp. 1–23. ISBN: 9780801442923. \[Preview with [Google Books](https://www.google.com/books/edition/State_Building/Q_utDwAAQBAJ?hl=en&gbpv=1)\]
 
 ### Session 20: Broad explanations for economic development
 
@@ -201,19 +201,15 @@ No readings assigned.
 
 ### Session 21: Industrial policy and its discontents
 
-“[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats- BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
+“[Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four](https://www.youtube.com/watch?v=kTSxo3175ec).” YouTube. *(video)*
 
 DOUALA. “[The Road to Hell is Unpaved](https://www.economist.com/christmas-specials/2002/12/19/the-road-to-hell-is-unpaved).” *The Economist*, December 19, 2002.
 
 Rodrik, Dani, Arvind Subramanian, and Francesco Trebbi. “[Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development](https://www.jstor.org/stable/40212696#metadata_info_tab_contents).” *Journal of Economic Growth* 9, no. 2 (2004): 131–65.
 
-de Soto, Hernando. “The Five Mysteries of Capital.” Chapter 1 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
+de Soto, Hernando. “The Five Mysteries of Capital,” “The Mystery of Missing Information,” and “By Way of Conclusion.” Chapters 1, 2, and 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
 
-———. “The Mystery of Missing Information.” Chapter 2 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
-
-———. “By Way of Conclusion.” Chapter 7 in *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* Basic Books, 2003, pp. 208–18. ISBN: ‎9780465016150. \[Preview with [Google Books](https://www.google.com/books/edition/The_Mystery_of_Capital/ZKOal2aylpgC?hl=en&gbpv=1)\]
-
-Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal*  1, no. 1 (2009): 1–29.
+Rodrik, Dani. [“Industrial Policy: Don’t Ask Why, Ask How.” (PDF)](https://drodrik.scholar.harvard.edu/files/dani-rodrik/files/industrial-policy-dont-ask-why-ask-how.pdf) *Middle East Development Journal* 1, no. 1 (2009): 1–29.
 
 ### Session 22: Further discussion of industrial policy
 
@@ -247,7 +243,7 @@ No readings assigned.
 
 ### *Recommended films for the week:*
 
-[*Bahrain: Shouting in the Dark*](https://www.imdb.com/title/tt2203745/?ref_=nv_sr_srsg_0). Directed by May Ying Welsh. Color,  51 min. 2011.
+[*Bahrain: Shouting in the Dark*](https://www.imdb.com/title/tt2203745/?ref_=nv_sr_srsg_0). Directed by May Ying Welsh. Color, 51 min. 2011.
 
 [*Z*](https://www.imdb.com/title/tt0065234/?ref_=fn_al_tt_1). Directed by Costa-Gavras. Color, 127 min. 1969.
 
@@ -261,13 +257,13 @@ Morozov, Evgeny. “[Liberation Technology: Whither Internet Control?](https://w
 
 Little, Andrew T. [“Communication Technology and Protest.” (PDF)](https://anthlittle.github.io/files/little_infoaction_web.pdf) *Journal of Politics* 78, no. 1 (2016): 152–66.
 
-Bahrani, Yasmine. “[What is it like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
+Bahrani, Yasmine. “[What Is It like to Live in a Modern Surveillance State? Look to Dubai](https://www.washingtonpost.com/opinions/2019/09/10/what-is-it-like-live-modern-surveillance-state-look-dubai/),” *Washington Post*, September 10, 2019.
 
 Farrow, Ronan. “[How Democracies Spy on Their Citizens](https://www.newyorker.com/magazine/2022/04/25/how-democracies-spy-on-their-citizens).” *The New Yorker*, April 18, 2022. 
 
-Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, With Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 22, 2021.
+Satariano, Adam, and Paul Mozur. “[Russia Is Censoring the Internet, with Coercion and Black Boxes](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html),” *New York Times*, October 22, 2021.
 
-“[Why China’s Social Credit System is Worse Than You Think](https://www.youtube.com/watch?v=fM3KONWxgIo).” YouTube. *(video)*
+“[Why China’s Social Credit System Is Worse Than You Think](https://www.youtube.com/watch?v=fM3KONWxgIo).” YouTube. *(video)*
 
 Marr, Bernard. “[Chinese Social Credit Score: Utopian Big Data Bliss or Black Mirror on Steroids?](https://www.forbes.com/sites/bernardmarr/2019/01/21/chinese-social-credit-score-utopian-big-data-bliss-or-black-mirror-on-steroids/?sh=630c38d48b83)” *Forbes*, January 21, 2019.
 
@@ -287,7 +283,7 @@ Huxley, Aldous. *Brave New World*. Harper Perennial, 2006. ISBN: ‎978006085052
 
 Orwell, George. *Nineteen Eighty-Four*. Orion, 2022. ISBN: 9781473234819. \[Preview with [Google Books](https://www.google.com/books/edition/Nineteen_Eighty_Four/SN4wEAAAQBAJ?hl=en&gbpv=1)\]
 
-Eggers, Dave. *The Circle*. Knopf Doubleday Publishing Group, 2013. ISBN: 9780385351409.  \[Preview with [Google Books](https://www.google.com/books/edition/The_Circle/sbxWAAAAQBAJ?hl=en&gbpv=1)\]  
+Eggers, Dave. *The Circle*. Knopf Doubleday Publishing Group, 2013. ISBN: 9780385351409. \[Preview with [Google Books](https://www.google.com/books/edition/The_Circle/sbxWAAAAQBAJ?hl=en&gbpv=1)\] 
 
 [*Logan's Run*](https://www.imdb.com/title/tt0074812/?ref_=nv_sr_srsg_0). Directed by Michael Anderson. Color, 119 min. 1976.
 
