@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/17-50-introduction-to-comparative-politics-fall-2022/mit17_50f22_lec6_and_lec7.pdf
+file_size: 131972
 file_type: application/pdf
 image_metadata:
   caption: ''
