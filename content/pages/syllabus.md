@@ -91,7 +91,7 @@ All topics, including current events and heretical questions, are fair game duri
 
 In the classroom, I obviously keep my personal opinions to myself. If you just attend classes and do no background research on me (positions I have held in government, campaign donations, party affiliation as listed on the voter rolls, public presentations I have given outside MIT, media appearances, etc.), you should be able to go the whole semester without being able to guess my political views or partisan leanings. In these informal gab sessions, however, I may sometimes speak in my own voice. Do not let any of the opinions I express in these instances – whether you agree with them or not – influence how you approach the regular class; in other words, you may have to compartmentalize information that you serendipitously acquire in these conversations.
 
-I may occasionally invite some interesting friends to drop by. If any guests are present, the {{% resource_link "db3e9f88-4e9d-40fa-97f9-764bac303f73" "Chatham House Rule" %}} also applies: nothing people say may be attributed to them specifically, and you may not mention that they attended the session.
+I may occasionally invite some interesting friends to drop by. If any guests are present, the [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) also applies: nothing people say may be attributed to them specifically, and you may not mention that they attended the session.
 
 My wife and I have two active sons (ages 12 and 14) and an even more active dog. Any or all of them may make an unscheduled appearance during the gab sessions, and be advised that you may hear the sound of boys hitting each other with Wiffleball bats in the background.
 
@@ -107,7 +107,7 @@ I will sometimes begin class with a very brief story or factoid about comparativ
 
 My classroom is meant to be a welcoming and comfortable environment. However, it is also a professional one. With this in mind, some rules of decorum:
 
-- Per MIT norms, MIT’s {{% resource_link "ff804bca-143a-4d47-977b-059f1f5614e3" "codes of conduct" %}}, and Massachusetts state law, ***do not under any circumstances make video or audio recordings of class sessions.*** ***I cannot emphasize this stricture strongly enough.***
+- Per MIT norms, MIT’s [codes of conduct](https://handbook.mit.edu/privacy), and Massachusetts state law, ***do not under any circumstances make video or audio recordings of class sessions.*** ***I cannot emphasize this stricture strongly enough.***
 - Please do not use any electronic devices during class.
 - You should feel free to have water with you, ***but do not eat in class.***
 
@@ -129,4 +129,4 @@ These sorts of exchanges are, in my view, the heart of teaching social science. 
 
 ## Further Classes in Political Science
 
-If you like this class, you will probably like other {{% resource_link "c6a70bba-d177-46c6-b5bf-9e651917943e" "political science" %}} subjects. If you did not like this class, that is surely a result of my deficiencies, and you will like other political science classes much more.
+If you like this class, you will probably like other [political science](https://ocw.mit.edu/search/?d=Political%20Science&q=political%20science) subjects. If you did not like this class, that is surely a result of my deficiencies, and you will like other political science classes much more.
